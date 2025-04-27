@@ -27,3 +27,9 @@
 
 **Критичное требование к API-ключам**:  
 - Ключи должны **ротироваться** каждые 30 дней и никогда не хардкодиться в приложении. *Аргумент:* компрометация ключа → полный контроль над умной инфраструктурой.  
+
+
+
+![PropDevelopment_С4_conext.drawio.png](PropDevelopment_С4_conext.drawio.png)
+
+![PropDevelopment_С4_model_as_is.drawio.png](PropDevelopment_С4_model_as_is.drawio.png)
